@@ -17,3 +17,7 @@ marks = {
 collection_of_coins = {1, 2, 25}
 
 # write your code here
+sorted_variables = {
+    "mutable": [list, dict, set],
+    "immutable": [int, float, str, tuple, bool]
+}
